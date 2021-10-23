@@ -1,0 +1,29 @@
+.password-card {
+  display: flex;
+  background-color: #9ba9eb;
+}
+
+.p-card {
+  display: flex;
+  flex-direction: column;
+  background-color: #5763a5;
+}
+.password-manager {
+  height: 100px;
+  width: 100px;
+}
+
+.add-button {
+  background-color: #0b69ff;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 14px;
+  color: #ffffff;
+  height: 40px;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 2px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}

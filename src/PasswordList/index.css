@@ -1,0 +1,13 @@
+.password-list {
+  display: flex;
+  flex-direction: column;
+  background-color: aliceblue;
+}
+
+/* .password-field {
+  background-color: transparent;
+  border: none;
+  height: 20px;
+  width: 0;
+  color: black;
+} */
